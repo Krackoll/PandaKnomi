@@ -1,3 +1,5 @@
+Note that this license applies only to the printable files within this folder and not the repository in general.
+
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
