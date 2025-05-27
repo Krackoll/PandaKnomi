@@ -6,6 +6,7 @@ Visit the wiki here to get the full online manual: https://bttwiki.com/PandaKnom
 # Important Note
 
 If you received a Panda Knomi with V1.0 or V1.1 firmware please update it to [V1.3.1](https://github.com/bigtreetech/PandaKnomi/tree/master/Firmware/v1.0.3.1) using the guide here: https://bttwiki.com/PandaKnomi.html#ota
+
 If you set some parameters longer than a certain number of characters with the earlier firmware, before you perform the update, you may find that the panda knomi becomes unresponsive and needs to be reflashed over USB-C using the process here: https://bttwiki.com/PandaKnomi.html#flash_download_tool-type-c
 
 # FAQs:
